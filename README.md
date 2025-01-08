@@ -1,7 +1,9 @@
+## This mod is a library for other mods, it doesn't do anything by itself.
 
-# Features
+This library contains new events, helpers, and utilities to make modder's lives easier.  Usable on both client and server side, for Forge mods.
 
-    Performance. Oculus should fully utilize your graphics card when paired with optimization mods like Rubidium.
-    Mod compatibility. Oculus should make a best effort to be compatible with modded environments.
-    Backwards compatibility. All existing ShadersMod / OptiFine shader packs should just work on Iris, without any modifications required.
-    A well-organized codebase. I'd like for working with Iris code to be a pleasant experience overall.
+This was made to help make my own mods more easily, and so I will only be able to provide limited support if you are using it for your own purposes.
+
+  
+
+You are free to use this library in the development of your mods or in modpacks!
